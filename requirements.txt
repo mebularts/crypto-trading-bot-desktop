@@ -1,0 +1,8 @@
+PyQt5
+qt_material
+ccxt
+pandas
+pandas-ta
+matplotlib
+requests
+python-telegram-bot

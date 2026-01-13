@@ -1,0 +1,23 @@
+{
+    "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "chat_id": "YOUR_TELEGRAM_CHAT_ID",
+    "interval": 900,
+    "message_interval": 30,
+    "api_key": "YOUR_EXCHANGE_KEY",
+    "api_secret": "YOUR_EXCHANGE_SECRET",
+    "profile": "swing",
+    "paper_start_balance": 10000,
+    "paper_risk_pct": 5,
+    "signature": "Built by @mebularts (open source)",
+    "rsi_thresholds": {
+        "buy": true,
+        "sell": true,
+        "neutral": true,
+        "potential_buy": true,
+        "potential_sell": true
+    },
+    "selected_coins": [
+        "BTC/USDT",
+        "ETH/USDT"
+    ]
+}

@@ -1,0 +1,22 @@
+# Bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local secrets and runtime files
+user.json
+ads.json
+examples/user.json
+examples/ads.json
+.env
+.env.*
+*.log

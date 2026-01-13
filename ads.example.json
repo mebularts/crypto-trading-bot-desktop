@@ -1,0 +1,15 @@
+{
+    "ads": [
+        {
+            "title": "Sample Campaign",
+            "description": "This is a placeholder ad message.",
+            "image_path": "path/to/optional-image.png",
+            "link": "https://example.com",
+            "active": false,
+            "schedule": {
+                "date": "2024-12-31",
+                "time": "23:59:00"
+            }
+        }
+    ]
+}
